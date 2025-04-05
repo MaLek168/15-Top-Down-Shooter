@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|e:\\game development\\vdo\\section of project\\15-udemy course - top-down shooter\\assets\\scripts\\levelgeneration\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgeneration\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\assets\\scripts\\enemy\\enemy_animationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_animationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\assets\\scripts\\enemy\\enemy_range\\throwgrenadestate_range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_range\\throwgrenadestate_range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\assets\\scripts\\enemy\\enemy_visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA71633-7FBE-B0DF-AD82-79C8B33F0FAC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\LevelGeneration\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGeneration\\LevelGenerator.cs",
+              "ToolTip": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\LevelGeneration\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGeneration\\LevelGenerator.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:12:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_AnimationEvents.cs",
+              "DocumentMoniker": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_AnimationEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_AnimationEvents.cs",
+              "ToolTip": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_AnimationEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_AnimationEvents.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAA5AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKxSURBVDhPzdK/TxNxAAXw971rS3sFWtproQHLSdUYDgQTf5A0EiJhYMBNHRicXGQxxv3on\u002BBqog5OhsGFyYkEf2ACNKfSGsEKrdKf9Hq0d9zvc9KY\u002BAfoZ3rJe\u002BMD/jUaAFzXJfwyT4/OjNLgQHEzHHVl6QrJreR\u002Bd\u002BBB3Ry9SZbWlijwoHIrOQAABQBvPr/p9om\u002BS8ViMS0zclphlLRSU8YXny/2lEqlPvW9OkmrNM\u002Bm2QFz25ysVCsTCSERAAB6c3OTqaM\u002BW5bLy7VO7RZN6PlId2Q\u002BzsSH\u002BX7\u002Beywcu5Cv5R/kK/kpA0bEtuy7\u002BWp\u002B2tbt/eZM84dnV9tNNNqN\u002BzuVnctD4SF1PDGe83l9HdMyj8YGxqINpXG1JJUuNtXmiW7p3cfa8aSiK7ZN2VP9TP\u002BWZ7247rdc64yH9hgTiYlX8e74U9Mxqx2zo7ARVtFULXI6erq119hrpdhUdrB38MzXxlfTMI2tod0hgxIrIopy0Y0EIocUqOeD/sHX0\u002BenP8yPzReGmWFHNdReRVe8hm34JVUKt/SW13Isr0OcPrlLpigAcFwHmq2dZKvZgyennuiCK1Bra2u07upRWZe5aqfKyCdy6EA6SBWahYBmaUEb9tl2su2hF\u002B4sxENMaLHernsJSCmtp1muxqXKKPdZxGoyPkaV2pK30q7sJKPJ9ZG\u002BEa0gFb4YMF6OnIwU6XsP7wVDXaGLdbV\u002BjhDCm455Tdbl622jnSjL5ezs8OzHI/XoU1Wubszxc9sDgQFRPBTfSYqUFzOi4eE0rtLsbT4ybMMWD8XoxrcN9DA9iAVjWtAfdFiWPRYEofNs\u002BZlLQODCPbp99TZA4AIAAYAXb18ENKJxqx9Xu/Zb\u002Bwh7w0hGkx06TB8\u002BvvFY/eO5fyG/giAIFABkkIEAAQCQyWScP7b/qZ\u002BStF3sEZFHhgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-22T10:12:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThrowGrenadeState_Range.cs",
+              "DocumentMoniker": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_Range\\ThrowGrenadeState_Range.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Range\\ThrowGrenadeState_Range.cs",
+              "ToolTip": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_Range\\ThrowGrenadeState_Range.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Range\\ThrowGrenadeState_Range.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB0AAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKxSURBVDhPzdK/TxNxAAXw971rS3sFWtproQHLSdUYDgQTf5A0EiJhYMBNHRicXGQxxv3on\u002BBqog5OhsGFyYkEf2ACNKfSGsEKrdKf9Hq0d9zvc9KY\u002BAfoZ3rJe\u002BMD/jUaAFzXJfwyT4/OjNLgQHEzHHVl6QrJreR\u002Bd\u002BBB3Ry9SZbWlijwoHIrOQAABQBvPr/p9om\u002BS8ViMS0zclphlLRSU8YXny/2lEqlPvW9OkmrNM\u002Bm2QFz25ysVCsTCSERAAB6c3OTqaM\u002BW5bLy7VO7RZN6PlId2Q\u002BzsSH\u002BX7\u002Beywcu5Cv5R/kK/kpA0bEtuy7\u002BWp\u002B2tbt/eZM84dnV9tNNNqN\u002BzuVnctD4SF1PDGe83l9HdMyj8YGxqINpXG1JJUuNtXmiW7p3cfa8aSiK7ZN2VP9TP\u002BWZ7247rdc64yH9hgTiYlX8e74U9Mxqx2zo7ARVtFULXI6erq119hrpdhUdrB38MzXxlfTMI2tod0hgxIrIopy0Y0EIocUqOeD/sHX0\u002BenP8yPzReGmWFHNdReRVe8hm34JVUKt/SW13Isr0OcPrlLpigAcFwHmq2dZKvZgyennuiCK1Bra2u07upRWZe5aqfKyCdy6EA6SBWahYBmaUEb9tl2su2hF\u002B4sxENMaLHernsJSCmtp1muxqXKKPdZxGoyPkaV2pK30q7sJKPJ9ZG\u002BEa0gFb4YMF6OnIwU6XsP7wVDXaGLdbV\u002BjhDCm455Tdbl622jnSjL5ezs8OzHI/XoU1Wubszxc9sDgQFRPBTfSYqUFzOi4eE0rtLsbT4ybMMWD8XoxrcN9DA9iAVjWtAfdFiWPRYEofNs\u002BZlLQODCPbp99TZA4AIAAYAXb18ENKJxqx9Xu/Zb\u002Bwh7w0hGkx06TB8\u002BvvFY/eO5fyG/giAIFABkkIEAAQCQyWScP7b/qZ\u002BStF3sEZFHhgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-22T10:12:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy_Visuals.cs",
+              "DocumentMoniker": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_Visuals.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Visuals.cs",
+              "ToolTip": "E:\\Game Development\\VDO\\Section of project\\15-Udemy course - Top-Down Shooter\\Assets\\Scripts\\Enemy\\Enemy_Visuals.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Visuals.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAIwCgAAAA5AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKxSURBVDhPzdK/TxNxAAXw971rS3sFWtproQHLSdUYDgQTf5A0EiJhYMBNHRicXGQxxv3on\u002BBqog5OhsGFyYkEf2ACNKfSGsEKrdKf9Hq0d9zvc9KY\u002BAfoZ3rJe\u002BMD/jUaAFzXJfwyT4/OjNLgQHEzHHVl6QrJreR\u002Bd\u002BBB3Ry9SZbWlijwoHIrOQAABQBvPr/p9om\u002BS8ViMS0zclphlLRSU8YXny/2lEqlPvW9OkmrNM\u002Bm2QFz25ysVCsTCSERAAB6c3OTqaM\u002BW5bLy7VO7RZN6PlId2Q\u002BzsSH\u002BX7\u002Beywcu5Cv5R/kK/kpA0bEtuy7\u002BWp\u002B2tbt/eZM84dnV9tNNNqN\u002BzuVnctD4SF1PDGe83l9HdMyj8YGxqINpXG1JJUuNtXmiW7p3cfa8aSiK7ZN2VP9TP\u002BWZ7247rdc64yH9hgTiYlX8e74U9Mxqx2zo7ARVtFULXI6erq119hrpdhUdrB38MzXxlfTMI2tod0hgxIrIopy0Y0EIocUqOeD/sHX0\u002BenP8yPzReGmWFHNdReRVe8hm34JVUKt/SW13Isr0OcPrlLpigAcFwHmq2dZKvZgyennuiCK1Bra2u07upRWZe5aqfKyCdy6EA6SBWahYBmaUEb9tl2su2hF\u002B4sxENMaLHernsJSCmtp1muxqXKKPdZxGoyPkaV2pK30q7sJKPJ9ZG\u002BEa0gFb4YMF6OnIwU6XsP7wVDXaGLdbV\u002BjhDCm455Tdbl622jnSjL5ezs8OzHI/XoU1Wubszxc9sDgQFRPBTfSYqUFzOi4eE0rtLsbT4ybMMWD8XoxrcN9DA9iAVjWtAfdFiWPRYEofNs\u002BZlLQODCPbp99TZA4AIAAYAXb18ENKJxqx9Xu/Zb\u002Bwh7w0hGkx06TB8\u002BvvFY/eO5fyG/giAIFABkkIEAAQCQyWScP7b/qZ\u002BStF3sEZFHhgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-22T10:12:23.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
